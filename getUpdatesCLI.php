@@ -4,8 +4,8 @@ require __DIR__ . '/vendor/autoload.php';
 
 use Longman\TelegramBot\Request;
 
-$bot_api_key  = '1368300873:AAFfzw7Gg_dI59TAUHfPhmcW7TwWBTRyJIw';
-$bot_username = 'InviteMyChatMakerBot';
+$bot_api_key  = '';
+$bot_username = '';
 
 $mysql_credentials = [
    'host'     => 'localhost',
